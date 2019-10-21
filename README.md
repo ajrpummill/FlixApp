@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-<img src="https://gfycat.com/scalyjadedhammerheadbird.gif" width=250><br>
+<img src="https://media.giphy.com/media/Wpg6JX0aRFfEi9CjB8/giphy.gif" width=250><br>
 
 ### Notes
 Mainly, I had trouble with the outlets. Having to label them in a particular way, set them as certain types of views, and getting everything to sync up proved challenging for me. I had to delete the collection view and start from a certian point in the assigment to get it working. Im not sure exacly why it did not work the first time but retracing my steps and reworking it fixed the SIGABRT issue when opening the Superhero tab. I belive I did everything the same but it worked on the second go around. Might have been one of those querks about xcode or a just a wrong letter in the vast sea of code. 
